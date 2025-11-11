@@ -28,7 +28,7 @@ Partial Class Form1
         ' Btn_ShowMsg
         ' 
         Btn_ShowMsg.BackColor = Color.Fuchsia
-        Btn_ShowMsg.Location = New Point(314, 119)
+        Btn_ShowMsg.Location = New Point(0, -3)
         Btn_ShowMsg.Name = "Btn_ShowMsg"
         Btn_ShowMsg.Size = New Size(148, 74)
         Btn_ShowMsg.TabIndex = 0
